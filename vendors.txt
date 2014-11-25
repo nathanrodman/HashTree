@@ -1,0 +1,8 @@
+North Bend Farms;541-555-1333;produce;Portland Farmer's Market, Bend Farmer's Market
+Creative Eye Glass;503-323-1944;art;Art in the Pearl, First Thursday
+Johnny Appleseed;503-222-1111;produce;Tualatin Farmer's Market, Pioneer Farmer's Market
+Little Things;503-444-1234;art;First Thursday, Last Thursday, Art in the Pearl
+The Wild Pine;360-111-1111;music;Concerts in the park
+Spencer Designs;425-222-2222;art;Last Thursday
+Pine State Biscuits;503-666-6666;restaurant;Portland Farmer's Market
+Vaudville Ettiquette;253-111-3333;music;Concerts in the park
